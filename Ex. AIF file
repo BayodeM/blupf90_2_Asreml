@@ -1,0 +1,7 @@
+Example of aif file created by ASReml
+Identity          Inbreeding   Diag_of_Ainverse Parent/NonParent
+Animal1      0.0000       1.5392     Parent      
+Animal2    0.0000       1.5392     Parent      
+Animal3      0.0000       1.5020     Parent      
+Animal4      0.0000       1.5020     Parent      
+Animal5      0.0000       1.5000     Parent 
